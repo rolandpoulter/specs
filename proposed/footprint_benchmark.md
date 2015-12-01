@@ -1,4 +1,4 @@
-# Add HTTP proxy functionality
+# RackHD Footprint benchmarking
 
 (from ORFS-140)
 
