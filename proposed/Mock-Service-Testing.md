@@ -24,4 +24,6 @@
 3. API
   * If there are REST or other APIs involved in this functionality, start to flesh them out here
   
+  https://groups.google.com/forum/#!forum/rackhd
+  
   
