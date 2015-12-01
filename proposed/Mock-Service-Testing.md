@@ -12,7 +12,7 @@
     * on-http (http request interface)
     * on-tasks (ipmi and snmp command util interface)
 
-  a) Evaluate current unit-test dependencies and helper functions
+  a) Evaluate current unit-test dependencies and helper functions  
   b) Implement new mocks (mocha/chai/sinon)
   
 3. API
