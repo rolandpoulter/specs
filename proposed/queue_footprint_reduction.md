@@ -19,3 +19,10 @@ sense to make RabbitMQ a configuration option and enable an alternative, lighter
 - try out zeromq if we think it can work, report on the footprint win (if any)
 
 ## API
+
+### Research Notes
+
+MQTT
+
+ - http://mcollina.github.io/mqtt_and_nodejs/
+ - http://www.mosca.io
