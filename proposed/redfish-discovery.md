@@ -20,3 +20,14 @@ RackHD should support interrogating a remote machine with a standardized RedFish
  - identify on/off
 
 ## API
+
+## Discussion
+
+@yyscamper:
+
+> Is there any server that has used the Redfish/SPMF interfaces, so we can have a try?
+ Revert
+
+@heckj:
+
+> @yyscamper right now, no - looking for some samples, but we'll likely be working against "spec" for this, or maybe from simulator work depending on timing on when we start to tackle this. IDIC will be doing something here, but still somewhat TBD. Consider this strategic effort
