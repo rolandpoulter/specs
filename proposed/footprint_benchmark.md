@@ -16,5 +16,9 @@ We want to consider future work for reducing the resource footprint for running 
 - measure disk consumed in mongodb
 - come up with metrics to compare each so we know where we’re consuming the most resources
 - process needs to be easily repeatable with distinct metrics from each run to compare as we change over time
+- leverage integration test scripts to run while profiling system
 
 ## API
+
+## Notes
+- Using node 4 debuggers to profile real time CPU performance/utilization stats.
