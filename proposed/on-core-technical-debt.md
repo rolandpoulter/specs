@@ -14,6 +14,7 @@ Paying down the technical debt...
 - on-core::validate.js -> 0.9 (what’s new?, what breaks? what’s needed?)
 - amqp/waterline support through node 0.12 or node 4...
 - need to change lodash flatten to flattenDeep
+- investigate naming conflicts using native ES6 promise keyword versus bluebird promises name
 
 ## API
 
