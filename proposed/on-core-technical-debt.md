@@ -13,7 +13,7 @@ Paying down the technical debt...
 - on-core::validator -> 4.3? (what’s new?, what breaks? what’s needed?)
 - on-core::validate.js -> 0.9 (what’s new?, what breaks? what’s needed?)
 - amqp/waterline support through node 0.12 or node 4...
-
+- need to change lodash flatten to flattenDeep
 
 ## API
 
