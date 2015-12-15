@@ -9,7 +9,11 @@ While working with manufacturing, there was feedback on the many manual steps fo
 ## Goals
 
 * Add support to the Discovery workflow for automatically setting the BMC username and password.
-* Update the Node’s OBM settings with the set username and password.
+* Update the Nodeâ€™s OBM settings with the set username and password.
 * Create a RackHD workflow to set the BMC username and password.
 
 ## API
+
+## Discussion
+
+@heckj: set ORFS-156 to track internally
