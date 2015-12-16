@@ -1,4 +1,4 @@
-# Secure erase workflow task
+# Platform-I SKU pack
 
 (from ORFS-133)
 
