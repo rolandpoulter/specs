@@ -1,5 +1,6 @@
 # Workflow HA and fault tolerance
 
+- (accepted)
 (from ORFS-100)
 
 ## Background

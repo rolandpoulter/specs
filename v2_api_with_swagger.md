@@ -1,5 +1,7 @@
 # V2 API
 
+- (accepted)
+
 (from ORFS-139)
 
 ## Background

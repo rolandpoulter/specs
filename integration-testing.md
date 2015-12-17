@@ -1,8 +1,11 @@
-Integration testing covers all quality gate steps plus additional developed and maintained functional tests available outside of the smoke test step.  CI should be executed continuously regardless of pending pull-requests or commit merges; once a CI cycle completes another begins.  
+#Integration Testing
+
+- (accepted)
+
 
 ## Background
 
-We need our own integration tests now that we're an independent project, basically.
+Integration testing covers all quality gate steps plus additional developed and maintained functional tests available outside of the smoke test step.  CI should be executed continuously regardless of pending pull-requests or commit merges; once a CI cycle completes another begins.  We need our own integration tests now that we're an independent project, basically.
 
 ## Goals
 
