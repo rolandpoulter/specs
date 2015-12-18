@@ -1,5 +1,7 @@
 # UEFI Workflow Support
 
+- (accepted)
+
 (from ORFS-69)
 
 ## Background

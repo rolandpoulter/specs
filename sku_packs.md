@@ -1,5 +1,7 @@
 # SKU Packs
 
+- (accepted)
+
 ## Background
 
 Feedback from users indicated:
@@ -13,8 +15,8 @@ Feedback from users indicated:
     > @heckj: Can we call out that we want a specific REST API as that method?
 
 * Provide a method within RackHD to dynamically load SKU specific content without having to bundle it with RackHD.
-* Documenting the SKU pack format and any manifests associated with it 
-* Provide at least 1, if not a couple, of SKU packs 
+* Documenting the SKU pack format and any manifests associated with it
+* Provide at least 1, if not a couple, of SKU packs
 * Create light (developer oriented notes) documentation on how to assemble a SKU pack and add it to the RackHD user's guide (in ttps://github.com/RackHD/docs/tree/master/docs/rackhd)
 * Update the demo in https://github.com/RackHD/RackHD/tree/master/example to use a SKU pack instead of the piecemeal stuff we provide for Auto-install setup of CoreOS for virtualbox
 

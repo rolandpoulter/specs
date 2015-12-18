@@ -1,5 +1,6 @@
 # IPMI poller improvements
 
+- (accepted)
 (from ORFS-134)
 
 ## Background

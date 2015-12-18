@@ -2,7 +2,7 @@ Submitting Design Proposals
 ----------------------------------------
 
 To submit a new design proposal, the submitter must submit a functional specification markdown file to the "proposed" directory under the RackHD "specs" repository:
-https://github.com/RackHD/specs/tree/master/proposed
+https://github.com/RackHD/specs/tree/master
 
 Each functional specification should contain the following:
 
@@ -15,9 +15,6 @@ All design proposals will be reviewed by the RackHD core committers. Discussion 
 
 [Create new mailinglist message](https://groups.google.com/forum/#!newtopic/rackhd)
 
-Upon acceptance, the proposal will be moved from "proposed" to the "in-progress" directory with a notification delivered to the submitter. This means the design proposal is ready for implementation and code development can begin.
+Upon acceptance, the proposal will be marked as "accepted" and a notification delivered to the submitter. This means the design proposal is ready for implementation and code development can begin.
 
-Upon rejection, the proposal will be moved from "proposed" to "retired" and a notification will be delivered to the submitter.
-
-Once the implementation has been completed -- code submitted, reviewed and checked-in -- the proposal will move from "in-progress" to "completed". The mailing list topic will be closed and a notification will be delivered to the submitter.
-
+Upon rejection, the proposal will be marked as "declined" and a notification will be delivered to the submitter.
