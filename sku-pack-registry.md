@@ -1,4 +1,4 @@
-# Secure erase workflow task
+# SKU Pack Registry
 
 (no tracking assigned)
 
