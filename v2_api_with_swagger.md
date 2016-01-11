@@ -6,7 +6,7 @@
 
 ## Background
 
-Feedback on usage of our API is that it's been a bit too freeform, and in particular has been missing clear schemas for resources, documentation, and validation functions. In addressing these issues, utilizing swagger (which we generate today, but don't have deeper integrated) seems like it will give us a lot of these explicit wins and help us formalize a V2 interface to RackHD.
+Feedback on usage of our API is that it has been a bit too freeform, and in particular has been missing clear schemas for resources, documentation, and validation functions. In addressing these issues, utilizing swagger (which we generate today, but don't have deeper integrated) seems like it will give us a lot of these explicit wins and help us formalize a V2 interface to RackHD.
 
 ## Goals
 
@@ -38,8 +38,6 @@ New resource/data model support
     - explicit schema for relations between nodes
     - switch ports to compute nodes
     - PDU ports to compute nodes & switch nodes
-
-## API
 
 * Split northbound & southbound API's so they can be bound to individual interfaces and ports.
 * Provide ODATA query string language to enable pagination/sorting and output filtering and Utilize JSON Schema for document declarations, validations, etc.  This gives us the technology to support Redfish style northbound API's later.
@@ -79,3 +77,4 @@ Dynamic schemas are fairly commmon in the current API.  When using a dynamic lan
     * Nodes - The Node document has the dynamic OBM settings field which is difficult to model.  This is a harder problem to solve but good to highlight.
     * Workflows - When creating workflows the options are varied to a degree in which modeling them is difficult.  The return values of workflows are also very dynamic and there is manual correlation to do between running a workflow, checking the active workflow end point, and then verifying it again later on the regular CRUD end point.
 
+## API
